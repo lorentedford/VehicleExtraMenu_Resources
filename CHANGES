@@ -1,2 +1,1 @@
-
-- Added Version Checking
+- Using NativeUILua now (so you have to download and put it into your resource folder if you haven’t already) [Should also fix the performance issue]
